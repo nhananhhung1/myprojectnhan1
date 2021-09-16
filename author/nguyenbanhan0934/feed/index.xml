@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nguyenbanhan0934 &#8211; my wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/nguyenbanhan0934/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nhananhhung1.github.io/myprojectnhan1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 16 Sep 2021 00:16:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Công nghệ Blockchain là gì ? [Tất tần tật kiến thức cần biết].</title>
+		<link>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/</link>
+					<comments>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyenbanhan0934]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 00:16:41 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nhananhhung1.github.io/myprojectnhan1/?p=30</guid>
+
+					<description><![CDATA[Khởi nguồn của Blockchain Năm 1991, Blockchain đã được mô tả vào bởi &#160;W. Scott Stornetta và Stuart Haber. Mục đích là đánh dấu thời gian vào các tài liệu để nó trở nên bất biến. Điều này có nghĩa là bạn không thể sửa đổi ngày với bất cứ hình thức nào. Năm 2008, &#8230; <p class="link-more"><a href="https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/" class="more-link">Continue reading<span class="screen-reader-text"> "Công nghệ Blockchain là gì ? [Tất tần tật kiến thức cần biết]."</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 id="block-927e67e2-b7c4-4034-bdd7-4dc01b6d67fb"><strong><br>Khởi nguồn của Blockchain</strong></h2>
+
+
+
+<p id="block-8023c20c-228d-44c1-a93d-a6aecfeb9719">Năm 1991, Blockchain đã được mô tả vào bởi &nbsp;W. Scott Stornetta và Stuart Haber. Mục đích là đánh dấu thời gian vào các tài liệu để nó trở nên bất biến. Điều này có nghĩa là bạn không thể sửa đổi ngày với bất cứ hình thức nào.</p>
+
+
+
+<p id="block-8bdd3a08-1d8b-4bac-a5a3-ce0e36035850">Năm 2008, nền tài chính thế giới sụp đổ. Thời điểm vàng cho một nhân vật hay một nhóm ẩn danh có tên là&nbsp;<strong><a href="https://blogtienao.com/satoshi-nakamoto/">Satoshi Nakamoto</a></strong>&nbsp;tạo ra một giao thức mã nguồn mở có tên là Bitcoin.</p>
+
+
+
+<p id="block-57197461-c3f6-4f29-b756-97ba97f95727">Đừng hiểu nhầm về Bitcoin “Bitcoin là một loại tài sản và được quan nếu bạn là nhà đầu tư”. Cái thú vị nhất không nằm ở giá cả lên hay xuống mà nó chính là công nghệ Blockchain.</p>
+
+
+
+<p id="block-eaed3791-3374-4c24-ab56-eb77d30fc3a8">Lần đầu tiên thế giới được biết đến Blockchain!</p>
+
+
+
+<h2 id="block-03e3f6f8-0bdd-4cb8-bf57-e22153fc816e"><strong>Blockchain là gì?</strong></h2>
+
+
+
+<p id="block-ba794c0d-9274-4065-a36d-c7085efa337c"><strong>Blockchain</strong>&nbsp;là một chuỗi các khối có chứa thông tin. Ngay từ chính cái tên của nó đã nói lên tất cả – block (khối) và chain (chuỗi).</p>
+
+
+
+<p id="block-476ff0ea-9fb1-4029-a981-49058b3e5dac"><strong>Blockchain</strong>&nbsp;được ví như một cuốn sổ kế toán chính (cuốn sổ cái) của một công ty. nơi mà mọi hoạt động liên quan đến tiền của công ty được giám sát rất chặt chẽ.</p>
+
+
+
+<p id="block-5c3decbf-ae74-413b-8e69-e93d942aa7a3">Trong trường hợp này Blockchain là một cuốn sổ cái hoạt động trong lĩnh vực công nghệ, và dữ liệu được lưu trữ là các dữ liệu số.</p>
+
+
+
+<p><strong>Xem ngay</strong>&nbsp;video dưới đây để hiểu thêm về Công nghệ chuỗi khối blockchain</p>
+
+
+
+<h2 id="block-1cbd9fb3-2160-4e3f-9552-d47abd8f66d5"><strong>Blockchain dùng để làm gì?</strong></h2>
+
+
+
+<p id="block-8afa6454-6be2-4714-b9e8-cdfbdb2ee274">Blockchain được dùng để lưu trữ thông tin trong các khối thông tin được liên kết với nhau. Nó được quản lý bởi tất cả mọi người tham gia hệ thống.</p>
+
+
+
+<p id="block-d3a5286d-2758-4ee7-977d-a826c4be5376">Thay vì một bên thứ 3 riêng lẻ như nhà nước hay ngân hàng trung ương. Đồng thời cho phép truyền tải dữ liệu một cách an toàn bằng một hệ thống mã hóa phức tạp, và được mở rộng theo thời gian.</p>
+
+
+
+<p id="block-0bdc61ba-9fb2-493e-865d-749e3365246e">Hơn nữa, công nghệ này được tạo ra để chống lại sự thay đổi dữ liệu trong hệ thống. Nó<strong>&nbsp;</strong>cũng có một tính năng rất đặc biệt đó là việc truyền tải dữ liệu không đòi hỏi một trung gian nào để xác nhận thông tin.</p>
+
+
+
+<p id="block-567157c2-cec0-4fd4-942f-db9cd682ea38">Bởi vì trong hệ thống Blockchain tồn tại rất nhiều nút hoạt động độc lập có khả năng xác thực các thông tin trong hệ thống mà không đòi hỏi “dấu hiệu của niềm tin”.</p>
+
+
+
+<p id="block-10c3efc5-4e26-4c1e-ab2f-7de219397d5c">Thông tin khi được nhập vào trong&nbsp;<strong>chuỗi khối blockchain</strong>&nbsp;thì sẽ không thể thay đổi và chỉ được bổ sung thêm khi có sự chấp thuận của tất cả mọi người trong hệ thống.</p>
+
+
+
+<p id="block-4caaa2f7-f7bc-4e7b-9212-0b8ebb032520">Đây là một hệ thống đảm bảo sự an toàn rất cao cho các dữ liệu trước các nguy cơ bị đánh cắp.</p>
+
+
+
+<p id="block-42996b3b-918f-4452-b09e-5f4564555035">Nhất là các dữ liệu nhạy cảm như tài khoản ngân hàng online, tài khoản thẻ thanh toán… Ngay cả khi nếu một phần của hệ thống blockchain bị tấn công, thì các phần khác không bị ảnh hưởng và vẫn tiếp tục hoạt động để bảo vệ thông tin.</p>
+
+
+
+<p>Xem ngay video về góc nhìn của chuyên gia về Blockchain</p>
+
+
+
+<h2 id="block-f75d0dd3-b835-496e-aa0a-531dd1dd64cc"><strong>Cấu trúc của Blockchain</strong></h2>
+
+
+
+<p id="block-b92991f4-6d95-450a-8c56-c42b60a13dd4">Mỗi khối (block) sẽ được lưu trữ gồm 3 phần:</p>
+
+
+
+<ul id="block-8b7de857-a269-418a-9645-40e0f8caf7b3"><li>Dữ liệu</li><li>Hash của khối hiện tại</li><li>Hash khối trước</li></ul>
+
+
+
+<figure class="wp-block-image is-style-default" id="block-d792ad79-d061-400a-8f98-c11cdc7e492f"><img src="https://blogtienao.com/wp-content/uploads/2020/01/block.jpg" alt="block"/></figure>
+
+
+
+<h3 id="block-91d4bba2-eaae-4740-8430-fc5877c6e52f"><strong>Dữ liệu</strong></h3>
+
+
+
+<p id="block-b3dd5b67-fd4a-4cef-9306-009f8508d383">Dữ liệu sẽ tùy thuộc vào từng loại Blockchain. Chẳng hạn như blockchain của Bitcoin sẽ chứa dữ liệu giao dịch.</p>
+
+
+
+<p id="block-ab41ed5e-94f8-4c67-b9f7-a7053b5f401b">Dữ liệu giao dịch gồm: Thông tin người gửi, nhận và số lượng coin được gửi.</p>
+
+
+
+<h3 id="block-804e20f7-64d2-4c95-89c6-a49646a071b2"><strong>Hash của khối hiện tại</strong></h3>
+
+
+
+<p id="block-ba144abf-9da8-44ab-ab8f-34b7745a4f94">Hash của khối hiện tại như một đặt điểm để nhận dạng. Nó là duy nhất và không trùng nhau giống như vân tay của chúng ta vậy.</p>
+
+
+
+<h3 id="block-b9454f1b-ac70-4e8e-8b5f-32d1f5ad1c40"><strong>Hash của khối trước</strong></h3>
+
+
+
+<p id="block-2e3ec254-c6e2-4af6-a363-961c9befc9d5">Nhờ hash này mà các khối (block) liên kết tạo ra một chuỗi (chain). Tuy nhiên khối đầu tiên sẽ không được liên kết với bất cứ khối nào. Vì nó được tạo ra đầu tiên.</p>
+
+
+
+<p id="block-63487c2e-2f53-4053-8fc0-e89d0d70ea30">Khối đầu tiên này được gọi là Genesis block dịch ra tiếng Việt là “Khối nguyên thủy”.</p>
+
+
+
+<figure class="wp-block-image is-style-default" id="block-75ed84b9-ece8-4968-b71c-f4c8bbaeab8e"><img src="https://blogtienao.com/wp-content/uploads/2020/01/cau-tao-cua-blockchain.jpg" alt="Cấu tạo của Blockchain"/></figure>
+
+
+
+<h2 id="block-d2591e03-d54d-4851-a2b3-b0fd8e882073"><strong>Đặc điểm chính của công nghệ Blockchain</strong></h2>
+
+
+
+<p id="block-d5875a17-8681-419b-875d-6f8654fc07e4"><strong>Công nghệ Blockchain (Blockchain technology)</strong>&nbsp;đóng vai trò giống như một cuốn sổ cái ghi lại tất cả các giao dịch xảy ra trong hệ thống. Các đặc điểm chính của blockchain có thể kể đến như:</p>
+
+
+
+<ul id="block-9364adc1-cd08-4bf6-9c6b-b09c13c1dc6a"><li><strong>Không thể làm giả, không thể phá hủy các chuỗi blockchain</strong>:</li><li><strong>Bất biến</strong></li><li><strong>Bảo mật Dữ liệu</strong></li><li><strong>Minh bạch</strong></li><li><strong>Hợp đồng thông minh</strong></li></ul>
+
+
+
+<h3 id="block-ffacdde8-f74e-462e-bf68-4a480edaecf0"><strong>Không thể làm giả, không thể phá hủy các chuỗi blockchain</strong></h3>
+
+
+
+<p id="block-58d1babb-ce32-4eee-a4db-64724003974e">Các chuỗi Blockchain gần như không thể bị phá hủy được. Theo lý thuyết thì chỉ có máy tính lượng tử mới có thể can thiệp vào và giải mã chuỗi blockchain.</p>
+
+
+
+<p id="block-659fd249-7ab2-4bab-a202-277add15d03b">Nó chỉ bị phá hủy hoàn toàn khi không còn internet trên toàn cầu.</p>
+
+
+
+<h3 id="block-66986e2b-1e8c-4c8d-8b9d-3abc37708427"><strong>Bất biến</strong></h3>
+
+
+
+<p id="block-dc99e073-b307-4428-892c-94375383c64c">Dữ liệu trong blockchain gần như không thể sửa đổi được. Nó chỉ có thể sửa đổi được bởi chính người đã tạo ra nó.</p>
+
+
+
+<p id="block-2b2d93c6-f8d9-4f71-8354-6178ca4242d5">Nhưng phải được sự đồng thuận của các nút trên mạng và các dữ liệu đó sẽ lưu giữ mãi mãi.</p>
+
+
+
+<h3 id="block-2ea6c255-8482-4d41-a758-a02e8c5c4c8b"><strong>Bảo mật Dữ liệu</strong></h3>
+
+
+
+<p id="block-8b37b156-5d4a-4621-b15f-949f37bf286f">Các thông tin, dữ liệu trong các chuỗi blockchain được phân tán và an toàn tuyệt đối. Chỉ có người nắm giữ private key mới có quyền truy xuất dữ liệu đó.</p>
+
+
+
+<figure class="wp-block-image is-style-default" id="block-b1a76a46-5bb7-4e66-a42f-3aa7f7fb3506"><img src="https://blogtienao.com/wp-content/uploads/2020/01/bao-mat-du-lieu.jpg" alt="Bảo mật dữ liệu"/></figure>
+
+
+
+<h3 id="block-143bd691-7a61-4ebd-81f3-89ef0f4d8ff0"><strong>Minh bạch</strong></h3>
+
+
+
+<p id="block-2a6a3595-c8b0-495e-a64f-e93f7d8b9b34">Ai cũng có thể theo dõi được đường đi của dữ liệu trong blockchain từ địa chỉ này tới địa chỉ khác và có thể thống kê toàn bộ lịch sử trên địa chỉ đó.</p>
+
+
+
+<h3 id="block-d7def1b4-2e5c-4408-8e39-d862f5651400"><strong>Hợp đồng thông minh</strong></h3>
+
+
+
+<p id="block-6a7354c8-20dc-4e01-b53f-6bb4771ae6b7"><strong><a rel="noreferrer noopener" href="https://blogtienao.com/smart-contract-hop-dong-thong-minh-la-gi/" target="_blank">Hợp đồng thông minh</a></strong>&nbsp;là các kỹ thuật số được nhúng bởi một đoạn code if-this-then-that (IFTTT) trong hệ thống.</p>
+
+
+
+<p id="block-7761fa55-1076-4e82-ba2a-597945d21e92">Cho phép chúng tự thực thi mà không cần bên thứ ba. Blockchain không cần bên thứ ba tham gia vào hệ thống.</p>
+
+
+
+<p id="block-a62cd184-cc33-4432-beb3-a91633b769e5">Nó bảo đảm rằng tất cả các bên tham gia đều biết được chi tiết hợp đồng và các điều khoản sẽ được tự động thực hiện một khi các điều kiện được bảo đảm.</p>
+
+
+
+<figure class="wp-block-image is-style-default" id="block-40fce7fc-2ffd-4894-a7a0-6199d02cbc0b"><img src="https://blogtienao.com/wp-content/uploads/2020/01/smart-contract.jpg" alt="Smart Contract"/></figure>
+
+
+
+<h2 id="block-df2ec6d4-ff8e-4350-a8f1-936c0a4010aa"><strong>Tại sao việc sửa dữ liệu trên Blockchain là bất khả thi?</strong></h2>
+
+
+
+<h3 id="block-4f623ec4-f1bd-48b9-8e3e-d3486927d4a4"><strong>Cơ chế Hash</strong></h3>
+
+
+
+<p id="block-664c7062-a9f4-4e87-abf6-1738cd665215">Để sửa đổi được dữ liệu của một khối thì&nbsp;<strong>Hash</strong>&nbsp;của khối đó sẽ bị thay đổi. Các khối phía sau nó khối bị sửa đổi trở nên không hợp lệ. Bởi vì lúc này&nbsp;<strong>Hash của khối trước</strong>&nbsp;không giống với khổi bị sửa đổi.</p>
+
+
+
+<p id="block-c29b6d76-9a70-4057-a0cc-7c1a730226ed">Vậy cách duy nhất để sửa đổi dữ liệu của một khối là bạn phải làm cho tất cả các khối phía sau nó trở nên hợp lệ.</p>
+
+
+
+<figure class="wp-block-image is-style-default" id="block-f68d52c6-c64c-4e14-ae12-b702ec05220d"><img src="https://blogtienao.com/wp-content/uploads/2020/01/thay-doi-thong-tin-cua-mot-block.jpg" alt="Thay đổi thông tin của một block"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hợp đồng thông minh là gì?</title>
+		<link>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/hop-dong-thong-minh-la-gi/</link>
+					<comments>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/hop-dong-thong-minh-la-gi/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyenbanhan0934]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 00:01:35 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nhananhhung1.github.io/myprojectnhan1/?p=16</guid>
+
+					<description><![CDATA[Hợp đồng thông minh được Nick Szabo mô tả lần đầu tiên vào những năm 1990. Vào thời điểm đó, ông&#160;định nghĩa&#160;hợp đồng thông minh là một công cụ để chính thức hóa và bảo mật mạng máy tính bằng cách kết hợp các giao thức với giao diện người dùng. Szabo đã thảo luận &#8230; <p class="link-more"><a href="https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/hop-dong-thong-minh-la-gi/" class="more-link">Continue reading<span class="screen-reader-text"> "Hợp đồng thông minh là gì?"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Hợp đồng thông minh được Nick Szabo mô tả lần đầu tiên vào những năm 1990. Vào thời điểm đó, ông&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://ojphi.org/ojs/index.php/fm/article/view/548/469">định nghĩa</a>&nbsp;hợp đồng thông minh là một công cụ để chính thức hóa và bảo mật mạng máy tính bằng cách kết hợp các giao thức với giao diện người dùng. Szabo đã thảo luận về khả năng sử dụng hợp đồng thông minh trong nhiều lĩnh vực khác nhau có liên quan đến các thỏa thuận hợp đồng &#8211; chẳng hạn các hệ thống tín dụng, xử lý thanh toán và quản lý bản quyền nội dung.Trong thế giới của tiền mã hóa, chúng ta có thể định nghĩa&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/en/glossary/smart-contract">hợp đồng thông minh</a>&nbsp;là một ứng dụng hoặc chương trình chạy trên blockchain. Hợp đồng thông minh giống như một hợp đồng kỹ thuật số bị bắt buộc thực hiện bởi một bộ quy tắc cụ thể. Các quy tắc này được do bộ mã máy tính xác định trước, và tất cả các&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/what-are-nodes">nút (node)</a>&nbsp;trong mạng đều phải sao chép và thực thi các quy tắc đó.</p>
+
+
+
+<p>Về bản chất, các hợp đồng thông minh trên blockchain cho phép tạo ra các giao thức không cần dựa trên sự tin cậy. Tức là hai bên trong hợp đồng có thể đưa ra các cam kết thông qua blockchain mà không cần phải biết hoặc tin tưởng lẫn nhau. Họ có thể đảm bảo rằng nếu các điều kiện của hợp đồng không được thỏa mãn, hợp đồng sẽ không được thực thi. Ngoài ra, việc sử dụng hợp đồng thông minh loại bỏ nhu cầu đối với các bên trung gian, giúp giảm đáng kể chi phí hoạt động.Mặc dù giao thức Bitcoin đã hỗ trợ hợp đồng thông minh trong nhiều năm, nhưng chúng trở nên phổ biến bởi Vitalik Buterin, người sáng tạo và nhà đồng sáng lập của&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/what-is-ethereum">Ethereum</a>. Tuy nhiên, mỗi blockchain có một phương pháp triển khai hợp đồng thông minh khác nhau.&nbsp;</p>
+
+
+
+<p>Bài viết này sẽ tập trung vào các hợp đồng thông minh chạy trên Máy ảo Ethereum (Ethereum Virtual Machine, EVM), một phần thiết yếu của blockchain Ethereum.</p>
+
+
+
+<h2 id="h-p-ng-th-ocirc-ng-minh-ho-t-ng-nh-th-n-agrave-o">Hợp đồng thông minh hoạt động như thế nào?</h2>
+
+
+
+<p>Nói một cách đơn giản, hợp đồng thông minh hoạt động như một chương trình tất định. Nó thực thi một tác vụ cụ thể trong trường hợp thỏa mãn các điều kiện nhất định. Do đó, một hệ thống hợp đồng thông minh thường tuân theo các câu lệnh &#8220;nếu… thì…&#8221;. Bất chấp tên gọi của nó, hợp đồng thông minh thựa ra không phải là một hợp đồng pháp lý và cũng không thông minh. Chúng chỉ là một đoạn mã chạy trên một hệ thống phân tán (blockchain).</p>
+
+
+
+<p>Trên mạng Ethereum, các hợp đồng thông minh chịu trách nhiệm thực thi và quản lý các hoạt động diễn ra trên blockchain khi những người dùng (địa chỉ) tương tác với nhau. Bất kỳ địa chỉ nào không phải là hợp đồng thông minh đều được gọi là tài khoản độc lập (externally owned account, EOA). Do đó, hợp đồng thông minh do máy tính kiểm soát và EOA do người dùng kiểm soát.</p>
+
+
+
+<p>Về cơ bản, hợp đồng thông minh Ethereum bao gồm một mã hợp đồng và hai khóa công khai. Khóa công khai thứ nhất là khóa do người tạo hợp đồng cung cấp. Khóa còn lại đại diện cho chính hợp đồng, khóa này có vai trò như một mã định danh kỹ thuật số duy nhất cho mỗi hợp đồng thông minh.</p>
+
+
+
+<p>Hợp đồng thông minh được triển khai thông qua giao dịch blockchain và chúng chỉ được kích hoạt khi một EOA (hoặc các hợp đồng thông minh khác) gọi chúng. Tuy nhiên, kích hoạt đầu tiên luôn từ phía EOA (người dùng).</p>
+
+
+
+<h2 id="c-aacute-c-t-iacute-nh-n-ng-ch-iacute-nh">Các tính năng chính</h2>
+
+
+
+<p>Hợp đồng thông minh Ethereum thường trình có các đặc điểm sau:</p>
+
+
+
+<p>Phân tán. Hợp đồng thông minh được sao chép và phân phối trong tất cả các nút của mạng Ethereum. Đây là một điểm khác biệt so với các giải pháp khác dựa trên các máy chủ tập trung.</p>
+
+
+
+<p>Tất định. Hợp đồng thông minh chỉ thực hiện các hành động mà chúng được thiết kế để thực hiện trong trường hợp các điều kiện được thỏa mãn. Bên cạnh đó, các kết quả của hợp đồng thông minh không đổi dù người thực hiện là ai.</p>
+
+
+
+<p>Tự động. Hợp đồng thông minh có thể tự động hóa tất cả các loại tác vụ, nó hoạt động như một chương trình tự thực hiện. Tuy nhiên, trong hầu hết các trường hợp, nếu hợp đồng thông minh không được kích hoạt, nó sẽ duy trì trạng thái &#8220;không hoạt động&#8221; và sẽ không thực hiện bất kỳ hành động nào.</p>
+
+
+
+<p>Không thể sửa đổi. Không thể sửa đổi hợp đồng thông minh sau khi triển khai. Chỉ có thể &#8220;xóa&#8221; chúng nếu chức năng này đã được thêm vào từ trước. Do đó, có thể nói rằng hợp đồng thông minh giống như một mã chống giả mạo.Có thể tùy chỉnh. Trước khi triển khai, hợp đồng thông minh có thể được mã hóa theo nhiều cách khác nhau. Vì vậy, chúng có thể được sử dụng để tạo ra nhiều loại ứng dụng phi tập trung (<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/en/glossary/decentralized-application">Dapp</a>). Điều này là bởi Ethereum là một blockchain&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/en/glossary/turing-complete">có thể được sử dụng để giải quyết bất kỳ vấn đề tính toán nào (Turing complete)</a></p>
+
+
+
+<p>Không cần dựa trên sự tin cậy. Hai hoặc nhiều bên của hợp đồng có thể tương tác thông qua hợp đồng thông minh mà không cần biết hoặc tin tưởng lẫn nhau. Ngoài ra, công nghệ blockchain đảm bảo tính chính xác của dữ liệu.</p>
+
+
+
+<p>Minh bạch. Vì các hợp đồng thông minh dựa trên một blockchain công khai, không ai có thể thay đổi mã nguồn của chúng, mặc dù bất kỳ ai cũng có thể xem được.</p>
+
+
+
+<h3>Tôi có thể thay đổi hoặc xóa hợp đồng thông minh không?</h3>
+
+
+
+<p>Không thể thêm các chức năng mới vào hợp đồng thông minh Ethereum sau khi triển khai. Tuy nhiên, nếu người tạo ra hợp đồng đưa vào một chức năng gọi là&nbsp;TỰ HỦY (SELFDESTRUCT)&nbsp;trong bộ mã, họ có thể &#8220;xóa&#8221; hợp đồng thông minh trong tương lai &#8211; và thay thế nó bằng một hợp đồng mới. Ngược lại, nếu chức năng này không được đưa vào bộ mã từ trước, họ sẽ không thể xóa hợp đồng thông minh đó.</p>
+
+
+
+<p>Hãy lưu ý đến các hợp đồng thông minh có khả năng nâng cấp &#8211; với loại hợp đồng này, các nhà phát triển có thể thay đổi hợp đồng thông minh ở một mức độ nào đó. Có nhiều cách để tạo các hợp đồng thông minh có khả năng nâng cấp với mức độ phức tạp khác nhau.</p>
+
+
+
+<p>Lấy một ví dụ đơn giản, hãy tưởng tượng rằng một hợp đồng thông minh được chia thành nhiều hợp đồng nhỏ hơn. Một số hợp đồng nhỏ này không thể thay đổi còn một số khác có chức năng &#8216;xóa&#8217;. Điều này nghĩa là, có thể xóa và thay thế một phần của bộ mã (hợp đồng thông minh), trong khi các chức năng khác không thay đổi.</p>
+
+
+
+<h2 id="u-i-m-v-agrave-tr-ng-h-p-s-d-ng">Ưu điểm và trường hợp sử dụng</h2>
+
+
+
+<p>Là một bộ mã có thể lập trình, hợp đồng thông minh có khả năng tùy chỉnh cao và có thể được thiết kế theo nhiều cách khác nhau để có thể cung cấp nhiều loại dịch vụ và giải pháp.</p>
+
+
+
+<p>Là các chương trình phi tập trung và tự thực hiện (self-executing), hợp đồng thông minh giúp tăng tính minh bạch và giảm chi phí hoạt động. Nếu được triển khai đúng cách, chúng cũng có thể tăng hiệu quả vận hành và giảm chi phí hành chính.</p>
+
+
+
+<p>Hợp đồng thông minh đặc biệt hữu ích trong các tình huống liên quan đến việc chuyển hoặc trao đổi tiền giữa hai hoặc nhiều bên.Nói cách khác, có thể thiết kế hợp đồng thông minh cho nhiều&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/blockchain-use-cases">trường hợp sử dụng</a>. Một số ví dụ bao gồm việc tạo ra các tài sản được token hóa, hệ thống bầu chọn,&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/crypto-wallet-types-explained">ví tiền mã hóa</a>, các sàn giao dịch phi tập trung, trò chơi và ứng dụng di động. Cũng có thể kết hợp hợp đồng thông minh với các giải pháp blockchain khác để giải quyết các vấn trong các lĩnh vực&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/blockchain-use-cases-healthcare">chăm sóc sức khỏe</a>,&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/blockchain-use-cases-charity">từ thiện</a>,&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/blockchain-use-cases-supply-chain">chuỗi cung ứng</a>,&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/vi/articles/blockchain-use-cases-governance">quản trị</a>, và&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://academy.binance.com/en/glossary/defi">tài chính phi tập trung (DeFi)</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/hop-dong-thong-minh-la-gi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
