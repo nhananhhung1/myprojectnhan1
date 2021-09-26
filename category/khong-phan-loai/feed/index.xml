@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Chưa phân loại &#8211; Nguyen Ba Nhan</title>
+	<title>Chưa phân loại &#8211; shop của nhân</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhananhhung1.github.io/myprojectnhan1</link>
-	<description>Giới thiệu về blockchain</description>
+	<description>Mua thì mua không mua thì mua</description>
 	<lastBuildDate>Thu, 16 Sep 2021 00:16:41 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -29,7 +29,9 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://nhananhhung1.github.io/myprojectnhan1/?p=30</guid>
 
-					<description><![CDATA[Khởi nguồn của Blockchain Năm 1991, Blockchain đã được mô tả vào bởi &#160;W. Scott Stornetta và Stuart Haber. Mục đích là đánh dấu thời gian vào các tài liệu để nó trở nên bất biến. Điều này có nghĩa là bạn không thể sửa đổi ngày với bất cứ hình thức nào. Năm 2008, [&#8230;]]]></description>
+					<description><![CDATA[Khởi nguồn của Blockchain Năm 1991, Blockchain đã được mô tả vào bởi &#160;W. Scott Stornetta và Stuart Haber. Mục đích là đánh dấu thời gian vào các tài liệu để nó trở nên bất biến. Điều này có nghĩa là bạn không thể sửa đổi ngày với bất cứ hình thức nào. Năm 2008,<div class="more-link">
+				 <a href="https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/" class="btn theme-btn"><span>Continue Reading </span><i class="icofont-thin-double-right"></i></a>
+			</div>]]></description>
 		
 					<wfw:commentRss>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/cong-nghe-blockchain-la-gi-tat-tan-tat-kien-thuc-can-biet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -46,7 +48,9 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://nhananhhung1.github.io/myprojectnhan1/?p=16</guid>
 
-					<description><![CDATA[Hợp đồng thông minh được Nick Szabo mô tả lần đầu tiên vào những năm 1990. Vào thời điểm đó, ông&#160;định nghĩa&#160;hợp đồng thông minh là một công cụ để chính thức hóa và bảo mật mạng máy tính bằng cách kết hợp các giao thức với giao diện người dùng. Szabo đã thảo luận [&#8230;]]]></description>
+					<description><![CDATA[Hợp đồng thông minh được Nick Szabo mô tả lần đầu tiên vào những năm 1990. Vào thời điểm đó, ông&#160;định nghĩa&#160;hợp đồng thông minh là một công cụ để chính thức hóa và bảo mật mạng máy tính bằng cách kết hợp các giao thức với giao diện người dùng. Szabo đã thảo luận<div class="more-link">
+				 <a href="https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/hop-dong-thong-minh-la-gi/" class="btn theme-btn"><span>Continue Reading </span><i class="icofont-thin-double-right"></i></a>
+			</div>]]></description>
 		
 					<wfw:commentRss>https://nhananhhung1.github.io/myprojectnhan1/2021/09/16/hop-dong-thong-minh-la-gi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

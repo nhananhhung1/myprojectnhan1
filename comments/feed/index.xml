@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Nguyen Ba Nhan	</title>
+	Bình luận cho shop của nhân	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhananhhung1.github.io/myprojectnhan1</link>
-	<description>Giới thiệu về blockchain</description>
-	<lastBuildDate>Thu, 16 Sep 2021 02:20:14 +0000</lastBuildDate>
+	<description>Mua thì mua không mua thì mua</description>
+	<lastBuildDate>Sun, 26 Sep 2021 02:54:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
